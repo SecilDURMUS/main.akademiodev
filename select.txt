@@ -1,0 +1,26 @@
+SELECT komutu bir veritabanında yer alan bir veya daha fazla tablodan istenen satır değerlerini almak için kullanılır.
+
+SELECT komutu ile elde edilen veriler yine bir tabloya aktarılarak üzerinde işlem yapılır.
+
+
+SELECT WHERE kullanımı
+WHERE yapısı bir tabloda yer alan kayıtlardan belirli bir koşula uygun olanları almaya yarar.
+
+
+SELECT DISTINCT kullanımı
+DISTINCT yapısı bir tablodaki sütunlarda yer alan aynı değerlerden sadece birinin alınmasını sağlar.
+
+SELECT komutu ile AND ve OR işlemcileri kullanımı
+
+AND ve OR kullanarak veritabanından verileri alırken birden fazla koşul tanımlayabilirsiniz.
+
+AND işlemcisini kullandığınızda her iki koşulun da sağlanması gerekir.
+
+OR işlemcisini kullandığınızda sadece tek koşulun da sağlanması yeterlidir.
+
+
+SELECT ORDER BY kullanımı
+ORDER BY yapısı tablodaki verileri tanımlanan bir sütun değerine göre sıralamak için kullanılır.
+
+ORDER BY yapısı ön tanımlı olarak yükselen sıralama ile verileri sıralar. Azalan sıralama ile sıralama yapmak için DESC kelimesi kullanılır.
+
